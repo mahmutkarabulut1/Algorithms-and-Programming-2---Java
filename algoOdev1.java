@@ -3,6 +3,7 @@ package algoOdev1;
 import java.util.Random;
 import java.util.Scanner;
 
+// The name of this play: Fruit Jackpot Spin the Reels and Win
 // When the game starts, it asks you to enter a money amount 
 // Then 3 random fruits will appear on the screen
 // If two of these fruits are the same, the money is doubled 
