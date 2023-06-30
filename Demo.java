@@ -1,7 +1,7 @@
 package midterm;
 
 //This main class uses Bus.java class, ContactInfo.java class, Person.java class
-//and Vehicle.java.
+//and Vehicle.java class.
 
 
 public class Demo {
