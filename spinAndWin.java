@@ -1,4 +1,4 @@
-package algoOdev1;
+package spinAndWin;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -10,7 +10,7 @@ import java.util.Scanner;
 // If all three are the same, the money is tripled
 // If none of them are the same, the money is lost
 
-public class algoOdev1 {
+public class spinAndWin {
 
     public static void main(String[] args) {
         char cont = 'y';
